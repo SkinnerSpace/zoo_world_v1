@@ -1,0 +1,10 @@
+{
+    "name": "ZooWorld",
+    "rootNamespace": "ZooWorld",
+    "references": [
+        "Zenject",
+        "R3.Unity",
+        "Unity.Localization"
+    ],
+    "autoReferenced": true
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ZooWorld.Tests.EditMode",
+    "rootNamespace": "ZooWorld.Tests",
+    "references": [
+        "ZooWorld",
+        "Zenject",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+}
